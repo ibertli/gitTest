@@ -8,4 +8,4 @@
 npm install koa koa-static-server @koa/router
 npm install @types/koa @types/koa-static-server @types/koa__router
 # 安装模块之后要使用的使用需要先导入，如 import koa from "koa"
-# 重点需要学习一下koa:
+# 重点需要学习一下koa及1.3节：搭建playground
